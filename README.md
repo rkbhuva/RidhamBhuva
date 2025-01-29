@@ -1,5 +1,5 @@
 # RidhamBhuva
-+Passionate Master’s student in Chemical and Energy Engineering at Otto-von-Guericke University, Magdeburg, with a strong focus on fluid dynamics, computational simulations, multiphase flows and electrochemical engineering. Proficient in OpenFOAM, Star-CCM+ and MATLAB. 
+Passionate Master’s student in Chemical and Energy Engineering at Otto-von-Guericke University, Magdeburg, with a strong focus on fluid dynamics, computational simulations, multiphase flows and electrochemical engineering. Proficient in OpenFOAM, Star-CCM+ and MATLAB. 
 
 Currently working as a Student Research Assistant at the Laboratory of Fluid Dynamics and Technical Flows, ISUT, OvGU, where I conduct experimental investigations on extraction processes and analyze hydrodynamic features.
 
